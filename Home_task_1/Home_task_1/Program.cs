@@ -7,9 +7,9 @@ namespace Home_task_1
         static void Main(string[] args)
         {
             Console.OutputEncoding = UTF8Encoding.UTF8;
-            //Task1.Execute();
-            //Task2.Execute();            
-            //Task3.Execute();
+            Task1.Execute();
+            Task2.Execute();            
+            Task3.Execute();
             Task4.Execute();
         }
     }
